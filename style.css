@@ -42,7 +42,7 @@ div img {
   display: inline-block;
 }
 
-.btn {
+a.btn {
   padding: 12px 28px;
   background-color: blueviolet;
   color: #fff;

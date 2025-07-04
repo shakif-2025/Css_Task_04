@@ -13,6 +13,19 @@
   margin: 0px auto;
   /* display: none; */
 }
+
+.button_link {
+  text-decoration: none;
+  padding: 12px 28px;
+  background-color: blueviolet;
+  color: #fff;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 3px solid mediumpurple;
+  border-radius: 22px;
+  cursor: pointer;
+}
+
 /* #div_two {
   display: none;
   visibility: hidden;
@@ -40,15 +53,4 @@ div img {
   box-shadow: 8px 8px 10px 10px rgba(0, 174, 255);
   margin-bottom: 18px;
   display: inline-block;
-}
-
-a.btn {
-  padding: 12px 28px;
-  background-color: blueviolet;
-  color: #fff;
-  font-size: 17px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: 3px solid mediumpurple;
-  border-radius: 22px;
-  cursor: pointer;
 }

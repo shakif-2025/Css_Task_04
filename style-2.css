@@ -1,0 +1,54 @@
+#first_div,
+#div_two,
+#div_three,
+#div_four {
+  width: 800px;
+
+  text-align: center;
+  background-color: aquamarine;
+  /* background: url("../images/bg-sky.jpg"); */
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0px auto;
+  /* display: none; */
+}
+/* #div_two {
+  display: none;
+  visibility: hidden;
+} */
+#sec-span {
+  border: 5px solid red;
+  display: inline-block;
+  margin: 20px;
+  padding: 10px 40px;
+}
+
+div h1 {
+  border: 2px solid peru;
+  border-radius: 15px;
+}
+
+div p {
+  border: 2px solid peru;
+  display: inline;
+}
+
+div img {
+  border: 5px solid red;
+  border-radius: 50%;
+  box-shadow: 8px 8px 10px 10px rgba(0, 174, 255);
+  margin-bottom: 18px;
+  display: inline-block;
+}
+
+.btn {
+  padding: 12px 28px;
+  background-color: blueviolet;
+  color: #fff;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 3px solid mediumpurple;
+  border-radius: 22px;
+  cursor: pointer;
+}
